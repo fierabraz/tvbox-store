@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "TvLauncher",
+    "packageName": "com.tvpanel.control",
+    "version": "2.0.2",
+    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/v2.0.2/TvLauncher.apk",
+    "notes": "Panel de control del launcher: bloqueo de apps de monitoreo, tienda, acceso remoto y más"
+  }
+]
