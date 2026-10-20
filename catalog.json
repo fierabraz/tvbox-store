@@ -10,14 +10,14 @@
     "name": "XüperTV",
     "packageName": "com.mod.x1x",
     "version": "4.34.5",
-    "downloadUrl": "URL_DEL_RELEASE_XUPERTV",
+    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/xupertv-4.34.5/X%C3%BCperTV_4_34_5.apk",
     "notes": ""
   },
   {
     "name": "Magma Pro+",
     "packageName": "com.magmaplayer",
     "version": "1.0.10",
-    "downloadUrl": "URL_DEL_RELEASE_MAGMAPRO",
+    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/magmapro-1.0.10/Magma_Pro__base.apk",
     "notes": ""
   }
 ]
