@@ -10,7 +10,14 @@
     "name": "XüperTV",
     "packageName": "com.mod.x1x",
     "version": "4.34.5",
-    "downloadUrl": "URL_DEL_RELEASE_AQUI",
+    "downloadUrl": "URL_DEL_RELEASE_XUPERTV",
+    "notes": ""
+  },
+  {
+    "name": "Magma Pro+",
+    "packageName": "com.magmaplayer",
+    "version": "1.0.10",
+    "downloadUrl": "URL_DEL_RELEASE_MAGMAPRO",
     "notes": ""
   }
 ]
