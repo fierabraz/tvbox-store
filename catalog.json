@@ -5,5 +5,12 @@
     "version": "2.0.2",
     "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/v2.0.2/TvLauncher.apk",
     "notes": "Panel de control del launcher: bloqueo de apps de monitoreo, tienda, acceso remoto y más"
+  },
+  {
+    "name": "XüperTV",
+    "packageName": "com.mod.x1x",
+    "version": "4.34.5",
+    "downloadUrl": "URL_DEL_RELEASE_AQUI",
+    "notes": ""
   }
 ]
