@@ -12,14 +12,8 @@
     "version": "1.0.10",
     "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/magmapro-1.0.10/Magma_Pro%2B_base.apk",
     "notes": ""
-  },
-    {
-   "name": "tvquickactions",
-    "packageName": "com.mod.x1x",
-    "version": "4",
-    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/tvquickactions/tvquickactions.apk",
-    "notes": ""
-    }
+  }
+   
 
   
 ]
