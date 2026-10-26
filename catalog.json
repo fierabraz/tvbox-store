@@ -12,6 +12,13 @@
     "version": "1.0.10",
     "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/magmapro-1.0.10/Magma_Pro%2B_base.apk",
     "notes": ""
+  },
+   {
+    "name": "TvLauncher",
+    "packageName": "com.TvLauncher",
+    "version": "v2.0.2",
+    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/magmapro-1.0.10/Magma_Pro%2B_base.apk",
+    "notes": ""
   }
    
 
