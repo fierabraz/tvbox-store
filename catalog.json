@@ -26,6 +26,13 @@
     "version": "magisvpn",
     "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/magisvpn/Xuper.Compunilla.V7.0.apk",
     "notes": ""
+  },
+  {
+    "name": "magihydra",
+    "packageName": "com.Xuper.Hydra.HDR.4KP",
+    "version": "magishydra",
+    "downloadUrl": "https://github.com/fierabraz/tvbox-store/archive/refs/tags/magishydra.zip",
+    "notes": ""
   }
    
 
