@@ -19,5 +19,12 @@
     "version": "4.34.4",
     "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/hydra/Hydra.apk",
     "notes": ""
+  },
+  {
+    "name": "Compunilla",
+    "packageName": "com.x.compunilla",
+    "version": "7.0",
+    "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/compunilla/Compunilla_V7_0.apk",
+    "notes": ""
   }
 ]
