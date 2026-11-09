@@ -12,5 +12,12 @@
     "version": "1.0.10",
     "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/magmapro-1.0.10/Magma_Pro%2B_base.apk",
     "notes": ""
+  },
+  {
+    "name": "Hydra",
+    "packageName": "com.xuper.netxxus",
+    "version": "4.34.4",
+    "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/hydra/Hydra.apk",
+    "notes": ""
   }
 ]
