@@ -1,40 +1,9 @@
 [
   {
-    "name": "XüperTV",
-    "packageName": "com.mod.x1x",
-    "version": "4.34.5",
-    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/xupertv-4.34.5/XuperTV_4.34.5.apk",
-    "notes": ""
-  },
-  {
-    "name": "Magma Pro+",
-    "packageName": "com.magmaplayer",
-    "version": "1.0.10",
-    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/magmapro-1.0.10/Magma_Pro%2B_base.apk",
-    "notes": ""
-  },
-   {
     "name": "tvquickactions",
     "packageName": "com.tvquickactions",
     "version": "tvquickactions",
     "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/tvquickactions/tvquickactions.apk",
     "notes": ""
-  },
-   {
-    "name": "magisvpn",
-    "packageName": "com.Xuper Compunilla V7.0",
-    "version": "magisvpn",
-    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/magisvpn/Xuper.Compunilla.V7.0.apk",
-    "notes": ""
-  },
-  {
-    "name": "magihydra",
-    "packageName": "com.Xuper.Hydra.HDR.4KP",
-    "version": "magishydra",
-    "downloadUrl": "https://github.com/fierabraz/tvbox-store/archive/refs/tags/magishydra.zip",
-    "notes": ""
   }
-   
-
-  
 ]
