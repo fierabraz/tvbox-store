@@ -14,13 +14,6 @@
     "notes": ""
   },
   {
-    "name": "XüperTV",
-    "packageName": "com.xtv.x1x",
-    "version": "4.99.3",
-    "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/xupertv/XuperTV.apk",
-    "notes": ""
-  },
-  {
     "name": "XTV",
     "packageName": "com.android.mgstv",
     "version": "4.99.20",
