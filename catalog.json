@@ -14,24 +14,17 @@
     "notes": ""
   },
   {
-    "name": "Hydra",
-    "packageName": "com.xuper.netxxus",
-    "version": "4.34.4",
-    "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/hydra/Hydra.apk",
-    "notes": ""
-  },
-  {
-    "name": "Compunilla",
-    "packageName": "com.x.compunilla",
-    "version": "7.0",
-    "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/compunilla/Compunilla_V7_0.apk",
-    "notes": ""
-  },
-  {
     "name": "XüperTV",
     "packageName": "com.xtv.x1x",
     "version": "4.99.3",
     "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/xupertv/XuperTV.apk",
+    "notes": ""
+  },
+  {
+    "name": "XTV",
+    "packageName": "com.android.mgstv",
+    "version": "4.99.20",
+    "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/xtv/Xtv.apk",
     "notes": ""
   }
 ]
