@@ -14,13 +14,6 @@
     "notes": ""
   },
   {
-    "name": "XTV",
-    "packageName": "com.android.mgstv",
-    "version": "4.99.20",
-    "downloadUrl": "https://raw.githubusercontent.com/fierabraz/tvbox-store/main/apps/xtv/Xtv.apk",
-    "notes": ""
-  },
-  {
     "name": "Hydra",
     "packageName": "com.xuper.netxxus",
     "version": "4.34.4",
