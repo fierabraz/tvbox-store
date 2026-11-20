@@ -7,6 +7,13 @@
     "notes": ""
   },
   {
+    "name": "XuperHydra",
+    "packageName": "com.XuperHydra",
+    "version": "",
+    "downloadUrl": "https://github.com/fierabraz/tvbox-store/releases/download/XuperHydra/XuperHydra.apk",
+    "notes": ""
+  },
+  {
     "name": "Magma Pro+",
     "packageName": "com.magmaplayer",
     "version": "1.0.10",
